@@ -30,7 +30,7 @@ cd project-recipes-app
 npm i
 ```
 
-4.Por último, rode o comando npm start e acesse o projeto via browser, no caminho http://localhost:3000/project-recipes-app.
+4. Por último, rode o comando npm start e acesse o projeto via browser, no caminho http://localhost:3000/project-recipes-app.
 ```
 npm start
 ```
